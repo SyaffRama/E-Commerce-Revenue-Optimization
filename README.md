@@ -16,6 +16,7 @@ This project analyzes a dataset of 499 customers and Rp2.1B+ in total transactio
 * **Interactive Dashboarding:** Built an omnichannel analytics dashboard in Looker Studio to visualize complex customer journeys across Online, In-Store, and Mixed channels.
 
 <img width="1349" height="862" alt="DASHBOARD" src="https://github.com/user-attachments/assets/512c5c59-8dbd-4644-96e6-c9d1f476af99" />
+https://datastudio.google.com/reporting/05a59a1e-7382-4468-b38c-3790f1cb2e78
 
 ## Recommendation
 * **Revamp Membership Benefits:** Shift budgets from mass discounts to experiential rewards like automated free shipping and surprise physical merchandise.
